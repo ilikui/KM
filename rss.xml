@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Sep 2023 00:43:02 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2023 00:43:02 GMT</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 00:49:11 GMT</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2023 00:49:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -70,7 +70,7 @@
 <p>需要抓取的源代码：</p>
 <div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://pic2.zhimg.com/v2-cf6dbf2c09189f7517ec63abdc80c50d_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>抓取规则</strong>：</p>
-<div class="language-html line-numbers-mode" data-ext="html"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>点击 Extract，进行抓取。</p>
+<p>点击 Extract，进行抓取。</p>
 <figure><img src="https://pic4.zhimg.com/v2-e9486741a6229ab258a95147f584571b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2> 4. 整理 rss 输入格式</h2>
 <p>「Define output format」是 Feed 的属性，通常前三项会被自动抓取一，后三项将之前获取的 item 里面的元素填入即可，<code>{%1}</code> 对应的是链接，所以填入「Item Link」，<code>{%2}</code> 对应标题则填入到「Item Title」。</p>
