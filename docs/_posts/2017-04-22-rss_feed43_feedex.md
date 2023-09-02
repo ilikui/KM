@@ -64,7 +64,7 @@ order: -2
 
 ## 4. 整理 rss 输入格式
 
-「Define output format」是 Feed 的属性，通常前三项会被自动抓取一，后三项将之前获取的 item 里面的元素填入即可，`{%1}` 对应的是链接，所以填入「Item Link」，`{%2}` 对应标题则填入到「Item Title」。
+
 
 ![](https://pic1.zhimg.com/v2-b4614f5c46090f2eb762aac87d604350_r.jpg)
 
