@@ -56,15 +56,7 @@ order: -2
 
 **抓取规则**：
 
-```html
-<tr>
-  {*}
-  <td class="{*}"><span>{*}</span><a href="{%}">{%}</a></td>
-  {*}
-  <td class="cBlue">{*}</td>
-  {*}
-</tr>
-```
+
 
 点击 Extract，进行抓取。
 
